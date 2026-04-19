@@ -21,12 +21,13 @@ export const About = () => {
             About Us
           </span>
           <h2 className="font-display font-bold text-3xl md:text-5xl text-balance">
-            Helping Saharsa students get things done
+            Helping students across Saharsa, Madhepura & Purnea
           </h2>
           <p className="mt-5 text-muted-foreground text-lg leading-relaxed">
-            Digital Seva Desk is a student-focused digital services shop in Saharsa. From
-            printing assignments to filling government forms and crafting resumes — we
-            make digital tasks easy, fast, and affordable so you can focus on studies.
+            Digital Seva Desk is a student-focused digital services shop currently
+            serving Saharsa, Madhepura and Purnea. From printing assignments to filling
+            government forms and crafting resumes — we make digital tasks easy, fast,
+            and affordable so you can focus on studies.
           </p>
           <p className="mt-4 text-muted-foreground leading-relaxed">
             One WhatsApp message is all it takes — share your file or task, and we handle

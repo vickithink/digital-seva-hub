@@ -22,7 +22,7 @@ export const Hero = () => {
         >
           <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-accent text-accent-foreground text-xs font-semibold mb-5">
             <Sparkles className="h-3.5 w-3.5" />
-            Trusted by 2,000+ students in Saharsa
+            Trusted by 2,000+ students across Saharsa, Madhepura & Purnea
           </span>
 
           <h1 className="font-display font-extrabold text-4xl sm:text-5xl lg:text-6xl leading-[1.05] text-balance text-foreground">
