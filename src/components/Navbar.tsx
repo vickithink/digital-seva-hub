@@ -42,7 +42,7 @@ export const Navbar = () => {
               {SITE.name}
             </div>
             <div className="text-[10px] md:text-xs text-muted-foreground tracking-wider uppercase">
-              Saharsa
+              Saharsa · Madhepura · Purnea
             </div>
           </div>
         </a>

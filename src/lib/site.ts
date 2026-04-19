@@ -4,7 +4,8 @@ export const SITE = {
   tagline: "All Student Services in One Place",
   phone: "+91 98765 43210",
   whatsappNumber: "919876543210", // no + or spaces
-  location: "Saharsa, Bihar",
+  location: "Saharsa · Madhepura · Purnea",
+  serviceAreas: ["Saharsa", "Madhepura", "Purnea"],
 };
 
 export const waLink = (message = "Hi! I'd like to order a service from Digital Seva Desk.") =>

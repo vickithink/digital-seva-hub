@@ -64,7 +64,7 @@ export const Footer = () => {
       <div className="border-t border-border/60">
         <div className="container py-5 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-muted-foreground">
           <p>© {new Date().getFullYear()} {SITE.fullName}. All rights reserved.</p>
-          <p>Made with care in Saharsa, Bihar.</p>
+          <p>Serving Saharsa · Madhepura · Purnea</p>
         </div>
       </div>
     </footer>
